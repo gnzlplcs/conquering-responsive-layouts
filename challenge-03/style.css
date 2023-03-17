@@ -1,0 +1,41 @@
+html {
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-size: 1.3rem;
+  color: white;
+}
+
+.container {
+  background-color: #23424A;
+  padding: 9.25rem 7.625rem;
+}
+
+.content {
+  width: 50%;
+  max-width: 710px;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+.btn {
+  font-size: 1.3rem;
+  font-weight: 700;
+  width: 17.825rem;
+  background-color: #38CFD9;
+  color: #072A2D;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 2rem;
+  margin-top: 3rem;
+}
+
+.btn:hover {
+  background-color: #136C72;
+}
